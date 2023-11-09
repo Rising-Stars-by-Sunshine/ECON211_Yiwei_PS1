@@ -73,7 +73,8 @@ Ploug and Holm (2020) multifaceted research program aims to achieve the followin
 ![](2.png)
 
 # Citations
-'''
+```
+
 @article{ploug2020four,
   title={The four dimensions of contestable AI diagnostics-A patient-centric approach to explainable AI},
   author={Ploug, Thomas and Holm, S{\o}ren},
@@ -101,4 +102,4 @@ url={https://openreview.net/forum?id=nZeVKeeFYf9}
       archivePrefix={arXiv},
       primaryClass={q-fin.GN}
 }
-'''
+```
