@@ -9,4 +9,4 @@
 |    result    	| Predicted direction of gold price change: positive, negative, or neutral. 	|
 |    scores    	|        Numeric score predicting magnitude of impact on gold price.        	|
 # Flowchart
-![](1.png)
+![](a.png)
