@@ -23,6 +23,7 @@
    - [Data dictionary](#data-dictionary)
    - [Flowchart](#flowchart-2)
 4. [Code](#code)
+   - [Flowchart](#flowchart-2)
    - [Pseudo-code](#pseudo-code)
 5. [Citations](#citations)
 
